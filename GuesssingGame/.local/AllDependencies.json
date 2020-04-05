@@ -1666,11 +1666,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "NotepadExample",
-      "projectName": "NotepadExample",
-      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\NotepadExample\\.local",
+      "projectUniqueName": "SayiTahminEtmeOyunu",
+      "projectName": "SayiTahminEtmeOyunu",
+      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\SayiTahminEtmeOyunu\\.local",
       "packagesPath": "C:\\Users\\MehmetBesli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\NotepadExample\\.local"
+      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\SayiTahminEtmeOyunu\\.local"
     },
     "frameworks": {
       "net461": {

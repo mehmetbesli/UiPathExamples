@@ -1666,11 +1666,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "NotepadExample",
-      "projectName": "NotepadExample",
-      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\NotepadExample\\.local",
+      "projectUniqueName": "ExcelReadAndWrite",
+      "projectName": "ExcelReadAndWrite",
+      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\ExcelReadAndWrite\\.local",
       "packagesPath": "C:\\Users\\MehmetBesli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\NotepadExample\\.local"
+      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\ExcelReadAndWrite\\.local"
     },
     "frameworks": {
       "net461": {
