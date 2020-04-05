@@ -11,4 +11,7 @@
 * TranslateExample
 * NotepadExample
 
+### which technologies were used
+* RPA(Robotic Process Automation)
+* UiPath Studio Program was used.
 
