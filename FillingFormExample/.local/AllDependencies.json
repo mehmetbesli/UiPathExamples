@@ -1668,9 +1668,9 @@
     "restore": {
       "projectUniqueName": "FormDoldurma",
       "projectName": "FormDoldurma",
-      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\Example\\FormDoldurma\\.local",
+      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\FillingFormExample\\.local",
       "packagesPath": "C:\\Users\\MehmetBesli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\Example\\FormDoldurma\\.local"
+      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\FillingFormExample\\.local"
     },
     "frameworks": {
       "net461": {
