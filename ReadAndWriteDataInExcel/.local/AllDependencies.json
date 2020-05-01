@@ -1668,9 +1668,9 @@
     "restore": {
       "projectUniqueName": "ExcelReadAndWrite",
       "projectName": "ExcelReadAndWrite",
-      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\ExcelReadAndWrite\\.local",
+      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\ReadAndWriteDataInExcel\\.local",
       "packagesPath": "C:\\Users\\MehmetBesli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\ExcelReadAndWrite\\.local"
+      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\ReadAndWriteDataInExcel\\.local"
     },
     "frameworks": {
       "net461": {
