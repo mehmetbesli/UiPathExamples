@@ -1751,9 +1751,9 @@
     "restore": {
       "projectUniqueName": "SayıTahminEtmeOyunu",
       "projectName": "SayıTahminEtmeOyunu",
-      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\SayıTahminEtmeOyunu\\.local",
+      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\GuesssingGame2\\.local",
       "packagesPath": "C:\\Users\\MehmetBesli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\SayıTahminEtmeOyunu\\.local"
+      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\GuesssingGame2\\.local"
     },
     "frameworks": {
       "net461": {

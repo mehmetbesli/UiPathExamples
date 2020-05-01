@@ -1666,11 +1666,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "SayiTahminEtmeOyunu",
-      "projectName": "SayiTahminEtmeOyunu",
-      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\GuesssingGame\\.local",
+      "projectUniqueName": "DataScrapingEexample",
+      "projectName": "DataScrapingEexample",
+      "projectPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\DataScrapingExample\\.local",
       "packagesPath": "C:\\Users\\MehmetBesli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\GuesssingGame\\.local"
+      "outputPath": "C:\\Users\\MehmetBesli\\Documents\\UiPath\\1UiPathExamples\\DataScrapingExample\\.local"
     },
     "frameworks": {
       "net461": {
